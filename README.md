@@ -38,3 +38,5 @@ The application will interact with the user using a command line (terminal based
 ![](5.jpg)
 ![](6.jpg)
 ![](7.jpg)
+![](8.jpg)
+![](9.jpg)
